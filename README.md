@@ -1,2 +1,1 @@
-# HELP-Charity
-A charity system
+This project is a console-based Java application for managing a donation system, including modules for donees, donors, donations, and distribution of items. It uses circular linked lists to handle data storage and provides functionalities to add, view, update, and delete records. The system supports efficient data handling and interaction through a simple user interface, making it suitable for organizing and tracking charitable activities.
